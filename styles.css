@@ -1,0 +1,110 @@
+/* Main app background */
+.stApp {
+    background-color: #e8f5e9; /* Light green background */
+    background-image: linear-gradient(to bottom right, #e8f5e9, #c8e6c9); /* Subtle gradient */
+}
+
+/* Container for content */
+.main .block-container {
+    background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+    border-radius: 15px;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 2rem auto;
+    max-width: 90%;
+}
+
+/* Your existing button styles with enhanced background */
+.st-key-green button {
+    background-color: #2e7d32; /* Darker green */
+    color: white;
+    border: none;
+    transition: all 0.3s;
+}
+
+/* Animated button with pulse effect - now with better contrast */
+.st-key-pulse button {
+    background-color: #388e3c;
+    color: white;
+    border-radius: 10px;
+    padding: 20px 60px;
+    animation: pulse 2s infinite;
+    border: none;
+}
+
+.st-key-pulse button p {
+    font-size: 24px;
+    font-family: 'Comic Sans MS', sans-serif;
+    color: white;
+    margin: 0;
+}
+
+/* Text input with custom styling */
+.st-key-styledinput input {
+    background-color: #f1f8e9;
+    border: 3px solid #81c784;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.st-key-styledinput input:focus {
+    border: 3px solid #4caf50;
+    box-shadow: 0 0 0 2px #a5d6a7;
+}
+
+/* Text area with custom font */
+.st-key-styledtextarea textarea {
+    background-color: #f1f8e9;
+    border: 3px solid #81c784;
+    border-radius: 8px;
+    font-family: 'Lucida Handwriting', cursive;
+    color: #2e7d32;
+    padding: 12px;
+}
+
+/* Radio buttons with custom styles */
+.st-key-styledradio .stRadio {
+    background-color: #f1f8e9;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.st-key-styledradio .stRadio p {
+    color: #2e7d32;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+}
+
+/* Styled markdown */
+.custom-markdown {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #2e7d32;
+    font-size: 28px;
+    background-color: #f1f8e9;
+    padding: 15px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+/* Pulse animation */
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(56, 142, 60, 0.7);
+    }
+    70% {
+        box-shadow: 0 0 0 15px rgba(56, 142, 60, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(56, 142, 60, 0);
+    }
+}
+
+/* Add some leaf decorations */
+.leaf-decoration {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    opacity: 0.2;
+    z-index: -1;
+}
