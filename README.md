@@ -1,6 +1,6 @@
 Colab Notebooks
 <br>
-Step 01 : https://colab.research.google.com/drive/1UtUBloiEfqYap6izVBRxd7tS8THc0tg_
+Step 01 : https://colab.research.google.com/drive/1UtUBloiEfqYap6izVBRxd7tS8THc0tg
 </br>
 Step 02 : https://colab.research.google.com/drive/1046YLlJBRme5CepPtdMvhbsVbJlHFYLa
 <br>
