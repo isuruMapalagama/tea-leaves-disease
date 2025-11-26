@@ -14,6 +14,16 @@ This is an AI-powered Tea Leaf Disease Prediction System built using Deep Learni
 
 Users can upload an image of a tea leaf, and the model predicts the most likely disease along with a second possible result and confidence levels. The project includes a Streamlit web interface for easy interaction.
 </br>
+<br>
+🛠 Tech Stack
+
+Python — Core programming language & backend logic
+TensorFlow / Keras — Deep learning framework for training MobileNetV2 model
+Streamlit — Interactive and simple web interface
+Google Colab — GPU-accelerated environment for model training
+Kaggle Dataset — Source of training images
+NumPy & Pillow — Image and data preprocessing tools
+</br>
 
 <br>
 🚀 Features
