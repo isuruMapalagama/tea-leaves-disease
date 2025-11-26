@@ -27,18 +27,6 @@ Supports classification of 8 disease types
 </br>
 
 <br>
-| Technology         | Purpose                           |
-| ------------------ | --------------------------------- |
-| Python             | Backend & model integration       |
-| TensorFlow / Keras | Deep Learning / MobileNetV2 model |
-| Streamlit          | Web application UI                |
-| Google Colab       | Model training                    |
-| Kaggle Dataset     | Training dataset                  |
-| NumPy, Pillow      | Image processing                  |
-
-</br>
-
-<br>
 📊 Model Performance
 
 Accuracy: 88.50%
