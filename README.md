@@ -1,10 +1,10 @@
 Colab Notebooks
 <br>
-Step 01 : https://colab.research.google.com/drive/1UtUBloiEfqYap6izVBRxd7tS8THc0tg
+Step 01 : https://colab.research.google.com/drive/1UtUBloiEfqYap6izVBRxd7tS8THc0tg_?usp=sharing
 </br>
-Step 02 : https://colab.research.google.com/drive/1046YLlJBRme5CepPtdMvhbsVbJlHFYLa
+Step 02 : https://colab.research.google.com/drive/1046YLlJBRme5CepPtdMvhbsVbJlHFYLa?usp=sharing
 <br>
-Step 03 : https://colab.research.google.com/drive/1pwrA88XuYSA3T1wvOD0yEC7OmIN5Jkwk
+Step 03 : https://colab.research.google.com/drive/1pwrA88XuYSA3T1wvOD0yEC7OmIN5Jkwk?usp=sharing
 </br>
 
 <br>
